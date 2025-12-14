@@ -58,6 +58,24 @@ Generation, Transmission & Distribution_ 18(23):4008-4022, 2024.
 
 ---
 
+## 🏆 GRANTS AND AWARDS
+
+* Full scholarship for B.Eng. degree, Vietnam National University .......................... 2016–2020
+* University medal, Vietnam National University (**Top 1 graduate in Industrial & Systems Engineering**) .......................... 2020
+* Henry Sutton Ph.D. Scholarship, Federation University Australia .......................... 2021–2024
+* WOMBAT 2024 Student travel grant .......................... 2024
+
+---
+
+## 🎤 CONFERENCE/PRESENTATIONS
+
+* AustMS 2023 .......................... 2023
+* Joint Meeting of the NZMS, AustMS and AMS .......................... 2024
+* WOMBAT 2024 .......................... 2024
+* AMSI 2025 Winter School .......................... 2025
+
+---
+
 ## Services
 Invited reviewer
 * IEEE Transactions on Sustainable Energy
@@ -65,7 +83,7 @@ Invited reviewer
 * Power Engineering Letters
 * European Journal of Operational Research
 
-
+---
 ## 🤝 Collaboration & Usage
 
 I am open to collaborations on projects related to Optimisation/Machine Learning.
