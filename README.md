@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I got my PhD in Mathematical Sciences (Optimisation focused) from Federation University in 2024. Before that I got my BEng in Industrial Engineering from Vietnam National University in 2020. My work generally involves developing efficient splitting methods to solve structured optimisation problems.
+I got my PhD in Mathematical Sciences (Optimisation focused) from Federation University Australia in 2024. Before that I got my BEng in Industrial Engineering from Vietnam National University in 2020. My work generally involves developing efficient splitting methods to solve structured optimisation problems.
 
 * **🌐 Primary Research Interests:** Splitting Algorithms, Machine Learning/Deep Learning
 * **💻 Technical Expertise:** Python, MATLAB, SQL, DIgSILENT PowerFactory
@@ -17,16 +17,21 @@ I got my PhD in Mathematical Sciences (Optimisation focused) from Federation Uni
 
 ---
 
-## 🔬 Research & Projects
+## 🔬 Projects
 
-This section highlights key repositories and projects, categorized for clarity.
+### 🌟 Centre for New Energy Transition Research (CfNETR), Federation University Australia
 
-### 🌟 Featured Projects
+* Centre for New Energy Technologies (C4NET)’s “Enhanced System Planning Project” funded by Victorian
+government: Work packages [3.11](https://c4net.com.au/wp-content/uploads/2023/07/WP-3.11-Final-report-Federation-University.pdf) and [3.12](https://c4net.com.au/wp-content/uploads/2023/07/WP-3.12-Final-Report-Federation-Uni.pdf). Developed an open-source [Python tool](https://github.com/nhattan214/ASC) for ancillary service
+calculation.
 
-| Project Name | Repository Link | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **[Project Title 1]** | [Link to Repo 1] | [1-2 sentence description of the project and its purpose/impact.] | [e.g., Active Development, Complete, Published] |
-| **[Project Title 2]** | [Link to Repo 2] | [Description of the software/analysis implemented.] | [e.g., Complete, Maintenance Mode] |
+* “Energy Demand Mapping – Wimmera, Mallee, and Northwest of Victoria” project and “Intelligent Outlier
+Processing for Net Demand Time Series” project funded by Department of Energy, Environment and
+Climate Action (DEECA).
+
+* ARC Linkage project on “Transforming Microgrid to Virtual Power Plant ICT Frameworks, Tools, Control”.
+Develop a controlling framework for inverter-based resources in microgrid to maintain frequency stability
+in the microgrids.
 
 
 
@@ -54,7 +59,7 @@ Generation, Transmission & Distribution_ 18(23):4008-4022, 2024.
 ---
 
 ## Services
-Invited reviewers
+Invited reviewer
 * IEEE Transactions on Sustainable Energy
 * IET Renewable Power Generation
 * Power Engineering Letters
