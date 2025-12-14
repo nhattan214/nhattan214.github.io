@@ -1,6 +1,6 @@
-# 👨‍🔬 [Your Full Name]
+# Tan Nhat Pham ヾ(＾∇＾)
 
-### [Your Current Academic Title/Affiliation, e.g., PhD Candidate at [University Name], Postdoctoral Researcher at [Institution Name], or Research Scientist]
+### BEng in Industrial Engineering, PhD in Mathematical Sciences (Optimisation focused)
 
 ---
 
@@ -53,7 +53,7 @@ A list of your key publications. For a shorter list, link to your Google Scholar
 * **[Author List (You in bold)]**. (Year). "[Title of Publication]". *Journal/Conference Name*, Vol(Issue), pp. [Link to PDF/DOI].
 * [Author List]. (Year). "[Title of Publication]". *Journal/Conference Name*.
 
-> **➡️ See my complete publication list on [Google Scholar Link] or [ResearchGate Link].**
+> **➡️ See my complete publication list on [Google Scholar](https://scholar.google.com/citations?user=EjFM1cQAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tan-Pham-11?ev=hdr_xprf).**
 
 ---
 
