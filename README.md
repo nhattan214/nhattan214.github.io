@@ -41,10 +41,10 @@ Recent papers
 Syed Islam. Data-driven Outlier Processing of Net Demand Time Series for Power System Reliability
 Evaluation. Accepted in _2025 IEEE International Conference on Energy Technologies for Future Grids (ETFG)_.
 * Minh N. Dao, **Tan Nhat Pham**, Phan Thanh Tung. Doubly relaxed forward-Douglas-Rachford splitting for
-the sum of two nonconvex and a DC function. In _Journal of Scientific Computing_, Volume 104, article number 35, 2025.
+the sum of two nonconvex and a DC function. In _Journal of Scientific Computing_, Volume 104, article number 35, 2025. [Code](https://github.com/nhattan214/Doubly-relaxed-forward-Douglas-Rachford)
 * **Tan Nhat Pham**, Minh N. Dao, Nima Amjady, Rakibuzzaman Shah. A proximal splitting algorithm for
 generalized DC programming with applications in signal recovery. In _European Journal of Operational
-Research_ 326(1): 42-53, 2025.
+Research_ 326(1): 42-53, 2025. [Code](https://github.com/nhattan214/Backward_Douglas_Rachford)
 * **Tan Nhat Pham**, Rakibuzzaman Shah, Nima Amjady, Syed Islam. Prediction of Fire Danger Index Using a
 New Machine Learning based Method to Enhance Power System Resiliency against Wildfires. _IET
 Generation, Transmission & Distribution_ 18(23):4008-4022, 2024.
