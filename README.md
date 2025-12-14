@@ -58,7 +58,7 @@ Generation, Transmission & Distribution_ 18(23):4008-4022, 2024.
 
 ---
 
-## 🏆 GRANTS AND AWARDS
+## 🏆 Grants/Awards
 
 * Full scholarship for B.Eng. degree, Vietnam National University .......................... 2016–2020
 * University medal, Vietnam National University (**Top 1 graduate in Industrial & Systems Engineering**) .......................... 2020
@@ -67,7 +67,7 @@ Generation, Transmission & Distribution_ 18(23):4008-4022, 2024.
 
 ---
 
-## 🎤 CONFERENCE/PRESENTATIONS
+## 🎤 Conferences/Presentations
 
 * AustMS 2023 .......................... 2023
 * Joint Meeting of the NZMS, AustMS and AMS .......................... 2024
