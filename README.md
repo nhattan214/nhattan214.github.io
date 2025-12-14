@@ -1,18 +1,19 @@
 # Tan Nhat Pham ヾ(＾∇＾)
 
-### BEng in Industrial Engineering, PhD in Mathematical Sciences (Optimisation focused)
+### BEng in Industrial Engineering, PhD in Mathematical Sciences 
 
 ---
 
 ## 👋 About Me
 
-I am a [**briefly describe your main field of study/interest**], currently focused on [**mention 1-2 specific research areas or key methodologies**]. My work generally involves [**e.g., computational modeling, experimental design, theoretical analysis, data science**] to explore [**the big picture goal**].
+I got my PhD in Mathematical Sciences (Optimisation focused) from Federation University in 2024. Before that I got my BEng in Industrial Engineering from Vietnam National University in 2020. My work generally involves developing efficient splitting methods to solve structured optimisation problems.
 
-* **🌐 Primary Research Interests:** [Interest 1], [Interest 2], [Interest 3]
-* **💻 Technical Expertise:** [Language/Tool 1 (e.g., Python)], [Language/Tool 2 (e.g., R)], [Platform/Framework 3 (e.g., TensorFlow, LaTeX)]
-* **📧 Contact:** [Your Professional Email Address]
-* **🔗 ORCID:** [Link to your ORCID profile]
-* **📄 Full CV:** [Link to your full, professional CV/Resume (often a PDF hosted elsewhere)]
+* **🌐 Primary Research Interests:** Splitting Algorithms, Machine Learning/Deep Learning
+* **💻 Technical Expertise:** Python, MATLAB, SQL, DIgSILENT PowerFactory
+* **📧 Contact:** pntan.iac[at]gmail[dot]com
+* **🔗 ORCID:** [0000-0002-0445-745X](https://orcid.org/0000-0002-0445-745X)
+* **🔗 Github:** [Link](https://github.com/nhattan214)
+
 
 ---
 
@@ -27,44 +28,44 @@ This section highlights key repositories and projects, categorized for clarity.
 | **[Project Title 1]** | [Link to Repo 1] | [1-2 sentence description of the project and its purpose/impact.] | [e.g., Active Development, Complete, Published] |
 | **[Project Title 2]** | [Link to Repo 2] | [Description of the software/analysis implemented.] | [e.g., Complete, Maintenance Mode] |
 
-### 📂 Code for Published Papers
 
-Code associated with peer-reviewed publications.
 
-* **Title of Paper 1:** [Link to Paper/Journal Page]
-    * **Code Repository:** [Link to Code Repo]
-    * *Description:* [Briefly explain what the code does (e.g., Replicates results for Figure 3 and 4, Contains the simulation engine used in the paper).]
-* **Title of Paper 2:** [Link to Paper/Journal Page]
-    * **Code Repository:** [Link to Code Repo]
-
-### 🛠 Tools and Utilities
-
-Repositories for general-purpose scripts, libraries, or teaching materials.
-
-* **[Utility Name/Topic]:** [Link to Repo] - A set of scripts for [purpose, e.g., quick data cleaning using Pandas].
-* **[Course/Tutorial Name]:** [Link to Repo] - Materials for a workshop on [topic].
 
 ---
 
 ## 📝 Publications
 
-A list of your key publications. For a shorter list, link to your Google Scholar profile.
+Recent papers
 
-* **[Author List (You in bold)]**. (Year). "[Title of Publication]". *Journal/Conference Name*, Vol(Issue), pp. [Link to PDF/DOI].
-* [Author List]. (Year). "[Title of Publication]". *Journal/Conference Name*.
+* Nusrat Subah Binte Shakhawat, **Tan Nhat Pham**, Pranta Dash Gupta, Rakibuzzaman Shah, Nima Amjady,
+Syed Islam. Data-driven Outlier Processing of Net Demand Time Series for Power System Reliability
+Evaluation. Accepted in _2025 IEEE International Conference on Energy Technologies for Future Grids (ETFG)_.
+* Minh N. Dao, **Tan Nhat Pham**, Phan Thanh Tung. Doubly relaxed forward-Douglas-Rachford splitting for
+the sum of two nonconvex and a DC function. In _Journal of Scientific Computing_, Volume 104, article number 35, 2025.
+* **Tan Nhat Pham**, Minh N. Dao, Nima Amjady, Rakibuzzaman Shah. A proximal splitting algorithm for
+generalized DC programming with applications in signal recovery. In _European Journal of Operational
+Research_ 326(1): 42-53, 2025.
+* **Tan Nhat Pham**, Rakibuzzaman Shah, Nima Amjady, Syed Islam. Prediction of Fire Danger Index Using a
+New Machine Learning based Method to Enhance Power System Resiliency against Wildfires. _IET
+Generation, Transmission & Distribution_ 18(23):4008-4022, 2024.
 
 > **➡️ See my complete publication list on [Google Scholar](https://scholar.google.com/citations?user=EjFM1cQAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Tan-Pham-11?ev=hdr_xprf).**
 
 ---
 
+## Services
+Invited reviewers
+* IEEE Transactions on Sustainable Energy
+* IET Renewable Power Generation
+* Power Engineering Letters
+* European Journal of Operational Research
+
+
 ## 🤝 Collaboration & Usage
 
-I am open to collaborations on projects related to [mention 1-2 key areas].
+I am open to collaborations on projects related to Optimisation/Machine Learning.
 
-If you use any of the code or resources from my repositories, please cite the associated paper (if applicable) and consider starring the repository!
+If you use any of the code or resources from my repositories, please cite the associated paper (if applicable) and consider starring the repository ( ◠‿◠ )!
 
 ---
 
-## ⚙️ GitHub Stats (Optional)
-
-You can use third-party tools (like GitHub Readme Stats or Shields.io) to generate dynamic badges here.
